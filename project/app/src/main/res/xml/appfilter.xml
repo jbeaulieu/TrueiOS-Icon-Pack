@@ -306,6 +306,9 @@
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome"/>
     <item component="ComponentInfo{com.android.chrome/com.android.chrome.Main}" drawable="google_chrome"/>
 
+    <!--Google Docs-->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs"/>
+
     <!-- Google Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive"/>
 
@@ -480,6 +483,7 @@
 
     <!-- Opera Mini -->
     <item component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}" drawable="opera"/>
+    <item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera"/>
 
     <!-- Pandora -->
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="pandora"/>

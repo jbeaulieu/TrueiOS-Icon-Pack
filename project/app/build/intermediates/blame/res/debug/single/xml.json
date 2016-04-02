@@ -4,14 +4,6 @@
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\xml\\drawable.xml"
     },
     {
-        "merged": "C:\\Users\\Jon\\StudioProjects\\scratch_icon_pack\\app\\build\\intermediates\\res\\merged\\debug\\xml\\appfilter.xml",
-        "source": "C:\\Users\\Jon\\StudioProjects\\scratch_icon_pack\\app\\src\\main\\res\\xml\\appfilter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Jon\\StudioProjects\\scratch_icon_pack\\app\\build\\intermediates\\res\\merged\\debug\\xml\\drawable.xml",
-        "source": "C:\\Users\\Jon\\StudioProjects\\scratch_icon_pack\\app\\src\\main\\res\\xml\\drawable.xml"
-    },
-    {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\xml\\appfilter.xml",
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\xml\\appfilter.xml"
     }

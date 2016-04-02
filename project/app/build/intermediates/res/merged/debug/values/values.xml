@@ -130,7 +130,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="theme_description">"Bring a modern iOS feel to your Android by applying this icon pack to your favorite launcher. Like all other J.B. Productions apps, this icon pack is free and will always be, and comes without ads or intrusive data collection. If you want to thank me or have any questions, drop me a line. \n\nEmail: jbeaulieu@mit.edu"</string>
     <string name="theme_feature">feature</string>
-    <string name="theme_info">Your theme information here</string>
+    <string name="theme_info">Theme Info</string>
     <string name="theme_preview1">preview1</string>
     <string name="theme_preview2">preview2</string>
     <string name="theme_title">iOS Icon Pack</string>

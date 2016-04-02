@@ -4,14 +4,6 @@
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable\\grid_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Jon\\StudioProjects\\scratch_icon_pack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_selector.xml",
-        "source": "C:\\Users\\Jon\\StudioProjects\\scratch_icon_pack\\app\\src\\main\\res\\drawable\\grid_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Jon\\StudioProjects\\scratch_icon_pack\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_over.xml",
-        "source": "C:\\Users\\Jon\\StudioProjects\\scratch_icon_pack\\app\\src\\main\\res\\drawable\\square_over.xml"
-    },
-    {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_over.xml",
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable\\square_over.xml"
     }

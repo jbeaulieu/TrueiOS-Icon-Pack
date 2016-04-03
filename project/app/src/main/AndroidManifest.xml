@@ -12,7 +12,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/theme_title" >
         <activity
-            android:name="com.jbproductions.iosicons.MainActivity"
+            android:name=".MainActivity"
             android:label="@string/theme_title" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -58,7 +58,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.jbproductions.iosicons.Icons"
+            android:name=".Icons"
             android:label="@string/title_activity_icons" >
             <intent-filter>
                 <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />

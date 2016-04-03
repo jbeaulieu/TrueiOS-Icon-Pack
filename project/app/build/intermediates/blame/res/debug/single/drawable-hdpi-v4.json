@@ -16,16 +16,16 @@
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\appfunc_home_search.png"
     },
     {
-        "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menuitem_add.png",
-        "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\menuitem_add.png"
-    },
-    {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menuitem_desklock.png",
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\menuitem_desklock.png"
     },
     {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\allapp.png",
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\allapp.png"
+    },
+    {
+        "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menuitem_add.png",
+        "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\menuitem_add.png"
     },
     {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vmetrov.9.png",
@@ -188,12 +188,12 @@
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\menuitem_gobackup.png"
     },
     {
-        "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_selected.9.png",
-        "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\menu_selected.9.png"
-    },
-    {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menuitem_language.png",
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\menuitem_language.png"
+    },
+    {
+        "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_selected.9.png",
+        "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-hdpi\\menu_selected.9.png"
     },
     {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_selected.png",

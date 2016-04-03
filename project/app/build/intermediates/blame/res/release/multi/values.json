@@ -1,0 +1,503 @@
+[
+    {
+        "outputFile": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 111,
+                    "endColumn": 16,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\iconpack.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 111,
+                        "endColumn": 16,
+                        "endOffset": 3082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 44,
+                    "endOffset": 3127
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 44,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 3132,
+                    "endColumn": 54,
+                    "endOffset": 3182
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 54,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 3187,
+                    "endColumn": 48,
+                    "endOffset": 3231
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 48,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 3236,
+                    "endColumn": 53,
+                    "endOffset": 3285
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 53,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 3290,
+                    "endColumn": 44,
+                    "endOffset": 3330
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 44,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3335,
+                    "endColumn": 50,
+                    "endOffset": 3381
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 50,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3386,
+                    "endColumn": 43,
+                    "endOffset": 3425
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 43,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3430,
+                    "endColumn": 46,
+                    "endOffset": 3472
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 46,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3477,
+                    "endColumn": 44,
+                    "endOffset": 3517
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 44,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3522,
+                    "endColumn": 43,
+                    "endOffset": 3561
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 3566,
+                    "endColumn": 49,
+                    "endOffset": 3611
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 49,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 3616,
+                    "endColumn": 57,
+                    "endOffset": 3669
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 3674,
+                    "endColumn": 55,
+                    "endOffset": 3725
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 3730,
+                    "endColumn": 52,
+                    "endOffset": 3778
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 52,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 3783,
+                    "endColumn": 65,
+                    "endOffset": 3844
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 65,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3849,
+                    "endColumn": 59,
+                    "endOffset": 3904
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 59,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 3909,
+                    "endColumn": 67,
+                    "endOffset": 3972
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 67,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 3977,
+                    "endColumn": 52,
+                    "endOffset": 4025
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 52,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 4030,
+                    "endColumn": 366,
+                    "endOffset": 4392
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 366,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 4397,
+                    "endColumn": 49,
+                    "endOffset": 4442
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 49,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4447,
+                    "endColumn": 49,
+                    "endOffset": 4492
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 49,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4497,
+                    "endColumn": 51,
+                    "endOffset": 4544
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 51,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4549,
+                    "endColumn": 51,
+                    "endOffset": 4596
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 51,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4601,
+                    "endColumn": 57,
+                    "endOffset": 4654
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 57,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4659,
+                    "endColumn": 54,
+                    "endOffset": 4709
+                },
+                "from": {
+                    "file": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 54,
+                        "endOffset": 813
+                    }
+                }
+            }
+        ]
+    }
+]

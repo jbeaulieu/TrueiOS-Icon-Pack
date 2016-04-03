@@ -408,12 +408,12 @@
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-xhdpi\\twitter.png"
     },
     {
-        "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gallery.png",
-        "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-xhdpi\\gallery.png"
-    },
-    {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\adobe_reader.png",
         "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-xhdpi\\adobe_reader.png"
+    },
+    {
+        "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gallery.png",
+        "source": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\src\\main\\res\\drawable-xhdpi\\gallery.png"
     },
     {
         "merged": "D:\\Documents\\GitHub\\TrueiOS-Icon-Pack\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\settings.png",

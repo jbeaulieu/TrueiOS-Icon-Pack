@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.jbproductions.iosicons"
+        applicationId "com.jbproductions.trueios"
         targetSdkVersion 19
     }
 

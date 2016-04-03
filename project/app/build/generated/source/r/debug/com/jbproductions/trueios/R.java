@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.jbproductions.iosicons;
+package com.jbproductions.trueios;
 
 public final class R {
     public static final class array {

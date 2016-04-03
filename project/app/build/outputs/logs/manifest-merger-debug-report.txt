@@ -2,7 +2,7 @@
 manifest
 ADDED from D:\Documents\GitHub\TrueiOS-Icon-Pack\project\app\src\main\AndroidManifest.xml:2:1-70:12
 	package
-		ADDED from D:\Documents\GitHub\TrueiOS-Icon-Pack\project\app\src\main\AndroidManifest.xml:3:5-41
+		ADDED from D:\Documents\GitHub\TrueiOS-Icon-Pack\project\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from D:\Documents\GitHub\TrueiOS-Icon-Pack\project\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Documents\GitHub\TrueiOS-Icon-Pack\project\app\src\main\AndroidManifest.xml
 	android:versionName

@@ -223,9 +223,9 @@ public final class R {
         public static final int youtube=0x7f0200bd;
     }
     public static final class id {
-        public static final int abNull=0x7f0b0001;
         public static final int action_settings=0x7f0b0002;
-        public static final int icon_grid=0x7f0b0000;
+        public static final int icon_grid=0x7f0b0001;
+        public static final int icon_image=0x7f0b0000;
     }
     public static final class layout {
         public static final int icon_picker=0x7f040000;

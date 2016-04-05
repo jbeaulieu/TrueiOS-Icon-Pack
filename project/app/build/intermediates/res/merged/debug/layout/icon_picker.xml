@@ -22,7 +22,7 @@
 		
 
 
-    <ImageView
+    <ImageView android:id="@+id/icon_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
     	android:src="#ff000000"
@@ -31,8 +31,7 @@
     <GridView android:id="@+id/icon_grid"
         android:listSelector="@drawable/grid_selector"
     	android:layout_width="match_parent"
-    	android:layout_height="match_parent"
-    	android:layout_below="@+id/abNull" />
+    	android:layout_height="match_parent" />
 
     
     

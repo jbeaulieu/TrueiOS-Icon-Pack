@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Icons are themed by specifiy their activity component name and the drawable to replace it with -->
+
+    <!-- Replace phone icon on Nexus/AOSP devices -->
+    <item component="ComponentInfo{com.android.contacts/.activities.DialtactsActivity}" drawable="ic_phone_red" />
+    <!-- Phone on On HTC 4.0 devices -->
+    <item component="ComponentInfo{com.android.htccontacts/.DialerTabActivity}" drawable="ic_phone_red" />
+    <!-- Phone on Sony devices -->
+    <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/.DialerEntryActivity}" drawable="ic_phone_red" />
+
+    <!-- Replace system icons using Nova's internal activity database -->
+    <item component=":PHONE" drawable="ic_phone_red" />
+    <item component=":SMS" drawable="ic_sms_red" />
+    <item component=":BROWSER" drawable="ic_browser_red" />
+
+    <!-- Replacer for the app drawer icon, which does not have a traditional component name -->
+    <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_allapps" />
+    <!-- If Nova Settings > Night Mode > Drawer icon is enabled, this will be used in night mode -->
+    <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" drawable="ic_allapps_night" />
+
+    <!-- Give Chrome the browser icon, but in green -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="ic_browser_green" />
+    <!-- And Chrome Beta a jellybean icon -->
+    <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="ic_jellybean_green" />
+
+    <!-- As of Nova Launcher 3.0, there is special support for calendar icons. You may specify a prefix
+         for where Nova Launcher can find 31 drawables (ic_calendar_1, ic_calendar_2, etc). One for every
+         day of the month.
+         This is only for use with calendar apps. Please make your calendar icons prettyier than mine. -->
+    <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="ic_calendar_" />
+
+    <!-- For launchers that don't support the calendar tag, use this single icon as a fallback
+         Nova will ignore "item" tags if a given component has a "calendar" tag, but other launchers will use it -->
+    <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="ic_calendar" />
+
+    <!-- You can also use Nova's :CALENDAR shortcut to theme the system calendar apps in Nova's internal database
+         Note that this does not include Google Calendar as that is available on Google Play -->
+    <calendar component=":CALENDAR" prefix="ic_calendar_" />
+
+</resources>

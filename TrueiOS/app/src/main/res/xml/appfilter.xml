@@ -11,8 +11,9 @@
     <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/.DialerEntryActivity}" drawable="ic_phone_red" />
 
     <!-- Replace system icons using Nova's internal activity database -->
-    <item component=":PHONE" drawable="ic_phone_red" />
-    <item component=":SMS" drawable="ic_sms_red" />
+    <item component=":PHONE" drawable="email" />
+    <item component=":EMAIL" drawable="email_cropped" />
+    <item component=":SMS" drawable="email_cropped" />
     <item component=":BROWSER" drawable="ic_browser_red" />
 
     <!-- Replacer for the app drawer icon, which does not have a traditional component name -->

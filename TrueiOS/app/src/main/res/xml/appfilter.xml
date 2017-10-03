@@ -16,9 +16,8 @@
     <item component=":SMS" drawable="email_cropped" />
     <item component=":BROWSER" drawable="ic_browser_red" />
 
-    <!-- Replacer for the app drawer icon, which does not have a traditional component name -->
+    <!-- App drawer icon, and night mode drawer icon (enable within Nova Settings > Night Mode > Drawer icon)  -->
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_allapps" />
-    <!-- If Nova Settings > Night Mode > Drawer icon is enabled, this will be used in night mode -->
     <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" drawable="ic_allapps_night" />
 
     <!-- Give Chrome the browser icon, but in green -->
@@ -28,8 +27,7 @@
 
     <!-- As of Nova Launcher 3.0, there is special support for calendar icons. You may specify a prefix
          for where Nova Launcher can find 31 drawables (ic_calendar_1, ic_calendar_2, etc). One for every
-         day of the month.
-         This is only for use with calendar apps. Please make your calendar icons prettyier than mine. -->
+         day of the month -->
     <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="ic_calendar_" />
 
     <!-- For launchers that don't support the calendar tag, use this single icon as a fallback

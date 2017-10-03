@@ -5,10 +5,7 @@
     <item drawable="ic_browser_green" />
     <item drawable="ic_browser_blue" />
 
-    <!-- Optionally you can add category dividers,
-         the organization and names of these categories is up to you
-    -->
-    <category title="SMS" />
+    <category title="" />
     <item drawable="browser" />
     <item drawable="ic_sms_green" />
     <item drawable="ic_sms_blue" />
@@ -16,6 +13,106 @@
     <category title="Email" />
     <item drawable="email_cropped" />
     <item drawable="email" />
+
+    <category title="System" />
+
+    <item drawable="browser" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="clock" />
+    <item drawable="contacts" />
+    <item drawable="downloads" />
+    <item drawable="email" />
+    <item drawable="files_alt" />
+    <item drawable="gallery" />
+    <item drawable="messages" />
+    <item drawable="music" />
+    <item drawable="phone" />
+    <item drawable="settings" />
+    <item drawable="terminal" />
+    <item drawable="videos" />s
+
+    <category title="Google" />
+
+    <item drawable="chrome" />
+    <item drawable="device_manager" />
+    <item drawable="gdocs" />
+    <item drawable="gdrive" />
+    <item drawable="gearth" />
+    <item drawable="gfit" />
+    <item drawable="ghangouts" />
+    <item drawable="ginbox" />
+    <item drawable="gkeep" />
+    <item drawable="gmail" />
+    <item drawable="gmaps" />
+    <item drawable="gnewsweather" />
+    <item drawable="google" />
+    <item drawable="gphotos" />
+    <item drawable="gphotos_alt" />
+    <item drawable="gplaybooks" />
+    <item drawable="gplaybooks_alt" />
+    <item drawable="gplaygames" />
+    <item drawable="gplaymovies" />
+    <item drawable="gplaymusic" />
+    <item drawable="gplaynewsstand" />
+    <item drawable="gplaystore" />
+    <item drawable="gplaystore_alt" />
+    <item drawable="gplus" />
+    <item drawable="gsheets" />
+    <item drawable="gslides" />
+    <item drawable="gtranslate" />
+    <item drawable="gvoicesearch" />
+    <item drawable="gwallet" />
+    <item drawable="youtube" />
+
+    <category title="Microsoft Office" />
+
+    <item drawable="microsoft_excel" />
+    <item drawable="microsoft_onedrive" />
+    <item drawable="microsoft_onedrive_alt" />
+    <item drawable="microsoft_onenote" />
+    <item drawable="microsoft_outlook" />
+    <item drawable="microsoft_powerpoint" />
+    <item drawable="microsoft_word" />
+
+    <category title="A" />
+
+    <item drawable="adobe_creative_cloud" />
+
+    <category title="B" />
+    <category title="C" />
+    <category title="D" />
+    <category title="E" />
+    <category title="F" />
+    <category title="G" />
+    <category title="H" />
+    <category title="I" />
+    <category title="J" />
+    <category title="K" />
+    <category title="L" />
+    <category title="M" />
+
+    <item drawable="microsoft_remote_desktop" />
+
+    <category title="N" />
+    <category title="O" />
+    <category title="P" />
+    <category title="Q" />
+    <category title="R" />
+    <category title="S" />
+
+    <item drawable="skype" />
+
+    <category title="T" />
+    <category title="U" />
+    <category title="V" />
+    <category title="W" />
+    <category title="X" />
+    <category title="Y" />
+    <category title="Z" />
+
+    <category title="Calendar" />
 
 
     <!-- Generaly you should list every icon here, but for this demo we won't -->

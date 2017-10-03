@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Icons are themed by specifiy their activity component name and the drawable to replace it with -->
-
-    <!-- Replace phone icon on Nexus/AOSP devices -->
-    <item component="ComponentInfo{com.android.contacts/.activities.DialtactsActivity}" drawable="ic_phone_red" />
-    <!-- Phone on On HTC 4.0 devices -->
-    <item component="ComponentInfo{com.android.htccontacts/.DialerTabActivity}" drawable="ic_phone_red" />
-    <!-- Phone on Sony devices -->
-    <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/.DialerEntryActivity}" drawable="ic_phone_red" />
-
     <!-- Replace system icons using Nova's internal activity database -->
-    <item component=":PHONE" drawable="email" />
-    <item component=":EMAIL" drawable="email_cropped" />
-    <item component=":SMS" drawable="email_cropped" />
-    <item component=":BROWSER" drawable="ic_browser_red" />
+    <item component=":BROWSER" drawable="system_browser" />
+    <item component=":CALCULATOR" drawable="system_calculator" />
+    <item component=":CALENDAR" drawable="system_calendar" />
+    <item component=":CAMERA" drawable="system_camera" />
+    <item component=":CLOCK" drawable="system_clock" />
+    <item component=":CONTACTS" drawable="system_contacts" />
+    <item component=":EMAIL" drawable="system_email" />
+    <item component=":GALLERY" drawable="system_gallery" />
+    <item component=":PHONE" drawable="system_phone" />
+    <item component=":SMS" drawable="system_sms" />
 
     <!-- App drawer icon, and night mode drawer icon (enable within Nova Settings > Night Mode > Drawer icon)  -->
-    <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_allapps" />
-    <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" drawable="ic_allapps_night" />
+    <!--<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_allapps" />
+    <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" drawable="ic_allapps_night" />-->
 
-    <!-- Give Chrome the browser icon, but in green -->
-    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="ic_browser_green" />
-    <!-- And Chrome Beta a jellybean icon -->
-    <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="ic_jellybean_green" />
+    <!-- PHONE -->
+    <item component="ComponentInfo{com.android.contacts/.activities.DialtactsActivity}" drawable="system_phone" /> <!-- Nexus/AOSP devices -->
+    <item component="ComponentInfo{com.android.htccontacts/.DialerTabActivity}" drawable="system_phone" /> <!-- HTC 4.0 devices -->
+    <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/.DialerEntryActivity}" drawable="system_phone" /> <!-- Sony devices -->
+
+    <!-- SMS -->
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="system_sms" /> <!-- Samsung -->
+    <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="system_sms" /> <!-- AOSP -->
+    <item component="ComponentInfo{com.vodafone.messaging/com.witsoftware.wmc.TabNavActivity}" drawable="system_sms" /> <!-- VodaFone -->
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="system_sms" /> <!-- Nexus -->
+    <item component="ComponentInfo{}" drawable="system_sms" /> <!-- -->
+
+
+    <!-- GOOGLE -->
+
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome" /> <!-- Chrome -->
+    <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="google_chrome" /> <!-- Chrome Beta -->
 
     <!-- As of Nova Launcher 3.0, there is special support for calendar icons. You may specify a prefix
          for where Nova Launcher can find 31 drawables (ic_calendar_1, ic_calendar_2, etc). One for every

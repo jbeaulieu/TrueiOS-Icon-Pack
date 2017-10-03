@@ -16,65 +16,65 @@
 
     <category title="System" />
 
-    <item drawable="browser" />
-    <item drawable="calculator" />
-    <item drawable="calendar" />
-    <item drawable="camera" />
-    <item drawable="clock" />
-    <item drawable="contacts" />
-    <item drawable="downloads" />
-    <item drawable="email" />
-    <item drawable="files_alt" />
-    <item drawable="gallery" />
-    <item drawable="messages" />
-    <item drawable="music" />
-    <item drawable="phone" />
-    <item drawable="settings" />
-    <item drawable="terminal" />
-    <item drawable="videos" />s
+    <item drawable="system_browser" />
+    <item drawable="system_calculator" />
+    <item drawable="system_calendar" />
+    <item drawable="system_camera" />
+    <item drawable="system_clock" />
+    <item drawable="system_contacts" />
+    <item drawable="system_downloads" />
+    <item drawable="system_email" />
+    <item drawable="system_files_alt" />
+    <item drawable="system_gallery" />
+    <item drawable="system_music" />
+    <item drawable="system_phone" />
+    <item drawable="system_settings" />
+    <item drawable="system_sms" />
+    <item drawable="system_terminal" />
+    <item drawable="system_videos" />
 
     <category title="Google" />
 
-    <item drawable="chrome" />
-    <item drawable="device_manager" />
-    <item drawable="gdocs" />
-    <item drawable="gdrive" />
-    <item drawable="gearth" />
-    <item drawable="gfit" />
-    <item drawable="ghangouts" />
-    <item drawable="ginbox" />
-    <item drawable="gkeep" />
-    <item drawable="gmail" />
-    <item drawable="gmaps" />
-    <item drawable="gnewsweather" />
-    <item drawable="google" />
-    <item drawable="gphotos" />
-    <item drawable="gphotos_alt" />
-    <item drawable="gplaybooks" />
-    <item drawable="gplaybooks_alt" />
-    <item drawable="gplaygames" />
-    <item drawable="gplaymovies" />
-    <item drawable="gplaymusic" />
-    <item drawable="gplaynewsstand" />
-    <item drawable="gplaystore" />
-    <item drawable="gplaystore_alt" />
-    <item drawable="gplus" />
-    <item drawable="gsheets" />
-    <item drawable="gslides" />
-    <item drawable="gtranslate" />
-    <item drawable="gvoicesearch" />
-    <item drawable="gwallet" />
-    <item drawable="youtube" />
+    <item drawable="google_chrome" />
+    <item drawable="google_device_manager" />
+    <item drawable="google_docs" />
+    <item drawable="google_drive" />
+    <item drawable="google_earth" />
+    <item drawable="google_fit" />
+    <item drawable="google_hangouts" />
+    <item drawable="google_inbox" />
+    <item drawable="google_keep" />
+    <item drawable="google_mail" />
+    <item drawable="google_maps" />
+    <item drawable="google_news_weather" />
+    <item drawable="google_photos" />
+    <item drawable="google_photos_alt" />
+    <item drawable="google_play_books" />
+    <item drawable="google_play_books_alt" />
+    <item drawable="google_play_games" />
+    <item drawable="google_play_movies" />
+    <item drawable="google_play_music" />
+    <item drawable="google_play_newsstand" />
+    <item drawable="google_play_store" />
+    <item drawable="google_play_store_alt" />
+    <item drawable="google_plus" />
+    <item drawable="google_search" />
+    <item drawable="google_sheets" />
+    <item drawable="google_slides" />
+    <item drawable="google_translate" />
+    <item drawable="google_voice_search" />
+    <item drawable="google_wallet" />
+    <item drawable="google_youtube" />
 
     <category title="Microsoft Office" />
 
-    <item drawable="microsoft_excel" />
-    <item drawable="microsoft_onedrive" />
-    <item drawable="microsoft_onedrive_alt" />
-    <item drawable="microsoft_onenote" />
-    <item drawable="microsoft_outlook" />
-    <item drawable="microsoft_powerpoint" />
-    <item drawable="microsoft_word" />
+    <item drawable="ms_excel" />
+    <item drawable="ms_onedrive" />
+    <item drawable="ms_onedrive_alt" />
+    <item drawable="ms_onenote" />
+    <item drawable="ms_outlook" />
+    <item drawable="ms_powerpoint" />
+    <item drawable="ms_word" />
 
     <category title="A" />
 
@@ -93,7 +93,7 @@
     <category title="L" />
     <category title="M" />
 
-    <item drawable="microsoft_remote_desktop" />
+    <item drawable="ms_remote_desktop" />
 
     <category title="N" />
     <category title="O" />

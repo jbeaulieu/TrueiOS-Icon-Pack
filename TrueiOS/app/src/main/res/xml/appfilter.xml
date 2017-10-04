@@ -35,6 +35,37 @@
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome" /> <!-- Chrome -->
     <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="google_chrome" /> <!-- Chrome Beta -->
 
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}" drawable="google_translate"/> <!-- Translate -->
+
+    <!-- A -->
+
+    <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" /> <!-- AdAway -->
+    <item component="ComponentInfo{com.bigtincan.android.adfree/com.bigtincan.android.adfree.FreeMe}" drawable="adfree" /> <!-- AdFree (1 of 2) -->
+    <item component="ComponentInfo{com.bigtincan.adfree/com.bigtincan.adfree.FreeMe}" drawable="adfree" /> <!-- AdFree (2 of 2) -->
+
+    <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobereader" /> <!-- Adobe Reader -->
+
+    <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+    <item component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.android.home.HomeActivity}" drawable="amazon" />
+    <item component="ComponentInfo{jp.amazon.mShop.android/com.amazon.mShop.android.AmazonActivity}" drawable="amazon" />
+    <item component="ComponentInfo{cn.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+    <item component="ComponentInfo{uk.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+    <item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Venezia}" drawable="amazonappstore" />
+    <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="amazonmp3" />
+
+    <item component="ComponentInfo{com.rovio.angrybirds/com.rovio.angrybirds.ApplanetActivity}" drawable="angrybirds" />
+    <item component="ComponentInfo{com.rovio.angrybirds/com.rovio.ka3d.App}" drawable="angrybirds" />
+    <item component="ComponentInfo{com.rovio.angrybirdsseasons/com.rovio.fusion.App}" drawable="angrybirdsseasons" />
+    <item component="ComponentInfo{com.rovio.angrybirdsspace.premium/com.rovio.ka3d.App}" drawable="angrybirdsspace" />
+    <item component="ComponentInfo{com.rovio.angrybirdsspace.premium/com.rovio.fusion.App}" drawable="angrybirdsspace" />
+    <item component="ComponentInfo{com.rovio.angrybirdsspace/com.rovio.ka3d.App}" drawable="angrybirdsspace" />
+    <item component="ComponentInfo{com.rovio.angrybirdsspace.ads/com.rovio.fusion.App}" drawable="angrybirdsspace" />
+    <item component="ComponentInfo{com.rovio.angrybirdsrio/com.rovio.ka3d.App}" drawable="angrybirdsrio" />
+    <item component="ComponentInfo{com.rovio.angrybirdsrio/com.rovio.fusion.App}" drawable="angrybirdsrio" />
+    <item component="ComponentInfo{com.rovio.angrybirdsstarwars.ads.iap/com.rovio.fusion.App}" drawable="angrybirdsstarwars" />
+    <item component="ComponentInfo{com.rovio.angrybirds/com.rovio.fusion.App}" drawable="angrybirds" />
+
     <!-- As of Nova Launcher 3.0, there is special support for calendar icons. You may specify a prefix
          for where Nova Launcher can find 31 drawables (ic_calendar_1, ic_calendar_2, etc). One for every
          day of the month -->
